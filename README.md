@@ -1,2 +1,3 @@
-# surepowerhouses
-Shirley, we power the houses!
+# SurePowerHouses
+
+The repo hosting our site.
